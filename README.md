@@ -1,2 +1,2 @@
 # resolutions
-just testing make a repository, 
+just testing make a repository 
